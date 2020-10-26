@@ -1,0 +1,13 @@
+ACTUALIZAR
+
+IMG , NO SE MUESTRA CUANDPO DEVUELVE EL LISTADO EN PROC.PRODUCTOS VER 
+SI SE LE SACA EL IMG DE Javascript funciona 
+
+Una vez que ACTUALIZA No guarda la categoria y la marca , porque tiene valor cero en el formulario de actualizar
+AxaX
+
+REVISAR PDF
+
+sasacsacsacsa
+
+
